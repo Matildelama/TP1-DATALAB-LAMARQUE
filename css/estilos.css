@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Titan+One&display=swap');
+
+h1, h2{
+text-align: center;
+color: #486494;
+font-family: "Titan One", sans-serif;
+font-size: 30px;
+text-decoration: underline ;
+}
+
+body{
+    background-color: #e8eaed;
+    font-family: "Roboto", sans-serif;
+}
+
+h3,h4{
+    margin-left: 250px;
+    margin-right: 250px;
+    color: #486494;
+    font-family: "Titan One", sans-serif;
+    font-size: 25px;
+}
+
+ul{
+    color: #486494;
+    margin-left: 250px;
+    margin-right: 250px;
+}
+
+a:hover {
+color: #a6f723;
+}
+
+p{
+    margin-left: 250px;
+    margin-right: 250px;
+    text-align: justify;
+}
+img{
+    width: 20%;
+    margin: auto;
+    display: block;
+    border-radius: 100px;
+}
